@@ -1,0 +1,6 @@
+{
+  "name": "BLACK ANIME",
+  "description": "BLACK ANIME - تطبيق لمشاهدة ومتابعة مسلسلات وأفلام الأنمي المترجمة والمدبلجة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
